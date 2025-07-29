@@ -7,7 +7,8 @@
 # print("hello world")   
 
 
-string=input ("enter string:")
+
+string=input ("enter string: ")
 dict={}
 
 for ch in string:
@@ -18,4 +19,4 @@ for ch in string:
         
 print ("your elements :")
 for am in dict:
-    print("the count of elements",am,"is",dict[am])
+    print("the count of elements ",am," is ",dict[am])

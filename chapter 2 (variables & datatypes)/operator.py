@@ -1,10 +1,10 @@
 a = 3
 b = 5
 # Arthmetic operators 
-print("the value of 3+5",3+5)
-print("the value of 3-5",3-5)
-print("the value of 3*5",3*5)
-print("the value of 3/5",3/5)
+print("the value of 3+5 ",3+5)
+print("the value of 3-5 ",3-5)
+print("the value of 3*5 ",3*5)
+print("the value of 3/5 ",3/5)
 #assignment operator
 a = 12
 a += 4

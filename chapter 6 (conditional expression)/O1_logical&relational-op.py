@@ -10,3 +10,10 @@ if(age>34 or age>56):# if any one condition is true them outcome will come in tr
     print("you can work with us")
 else:
     print("you can not work with us")
+
+if(age>18 and age<50):# in this case both condition should be true then it will give resul
+    print("Yes he can apply")
+elif(age==40):
+    print("his age is 40")
+else:
+    print("not apply")
