@@ -7,7 +7,7 @@
 # print("hello world")   
 
 
-
+# Count nuber of characters in a string
 string=input ("enter string: ")
 dict={}
 
@@ -20,3 +20,9 @@ for ch in string:
 print ("your elements :")
 for am in dict:
     print("the count of elements ",am," is ",dict[am])
+
+b="A"
+print(ord(b))
+
+c=65
+print(chr(c))

@@ -13,6 +13,8 @@ name = "farhan"
 #concatenating two string by adding them
 c = greeting + name
 print(c)
+# Formating 
+print(f"my name is {name} and {greeting}") # --> this is an another way of concatenating string
 
 #index framing and slicing string
 name = "farhan"
