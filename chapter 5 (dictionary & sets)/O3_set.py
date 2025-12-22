@@ -1,4 +1,9 @@
-a = {1, 3, 4, 5, 1,}#--> sets is a collection of non-repetitive elements
+#--> sets is a collection of non-repetitive elements
+#  set is mutable means we can change its values
+# sets are unordered means it does not maintain the order of elements
+# sets are defined by curly braces {}
+# example of sets
+a = {1, 3, 4, 5, 1,}
 
 print(type(a))
 print(a)

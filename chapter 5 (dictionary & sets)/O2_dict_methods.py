@@ -32,3 +32,15 @@ print(mydict["harry"])
 # example for showing differnerce btw .get and [] syntax methods
 print(mydict.get("harry2"))#-->if harry2 is not present in dictionary then he print none
 print(mydict["harry2"])#-->but in case if harry2 is not present in dictionary then this give an error
+
+for i in mydict.values():
+    print(i) #--> it will print all the keys of dictionary
+
+# create a dictionary from two lists
+d1 = {10:100, 20:200, 30:300}
+d2 = {40:400, 50:500, 60:600}
+
+for i in d2.items():
+    d1[i] = d2[i]
+
+print(d1)

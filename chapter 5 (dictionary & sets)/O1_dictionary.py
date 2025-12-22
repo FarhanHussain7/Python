@@ -1,3 +1,9 @@
+# --> dictionary is a key value pair data structure
+# --> dictionary is mutable means we can change its values
+# --> dictionary is unordered means it does not maintain the order of elements
+# --> dictionary is defined by curly braces {}
+# example of dictionary
+
 mydict = {
     "fast" : "in a quick manner",
     "harry" : "a coder",
