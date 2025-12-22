@@ -18,6 +18,7 @@ print(c)
 
 #list slicing
 friends = ["farhah","rohit","vikash","deepak",45]
+# [start:end-1:step]
 print(friends[0:4])
 print(friends[-4:]) 
 
@@ -29,6 +30,6 @@ l1 = [2,3,56,75,45,89]
 #l1.reverse()-->.ffor reversee print
 #l1.append(66)-->.useing for adding new number oor vaalue 
 #l1.insert(2,444)-->insert 444 at index 2
-#l1.pop(3)-->deleteing or poping any value 
+#l1.pop(3)-->deleteing or poping any value at index 3
 l1.remove(56)#--> for removing any value
 print(l1)
