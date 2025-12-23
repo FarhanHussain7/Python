@@ -1,4 +1,4 @@
-f = open('sample.txt', 'r')
+f = open('python/chapter 9 (file)/sample.txt', 'r')
 # read first line 
 data = f.readline()
 print(data)
