@@ -1,5 +1,5 @@
 class Employee:
-    company = "google"
+    company = "google" #class attribute
 
 harry = Employee()
 rajani = Employee()

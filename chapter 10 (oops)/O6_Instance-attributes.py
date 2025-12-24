@@ -2,6 +2,11 @@ class Employee:
     company = "google"
     salary = 100
     
+    def __init__(self,age):
+        self.age = age # instance attribute
+
+    def show(self): #
+        print("How are you ")
 
 harry = Employee()
 rajani = Employee()
