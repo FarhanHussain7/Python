@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gita ",
+    "age": 23,
+    "email": "gita@gmail.com",
+    "pin": 1234,
+    "accountNo": "1s%S2o2",
+    "balance": 0
+  },
+  {
+    "name": "farhan ",
+    "age": 22,
+    "email": "farha@gmail.com",
+    "pin": 1234,
+    "accountNo": "38X3#ai",
+    "balance": 20000
+  }
+]
