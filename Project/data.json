@@ -5,7 +5,7 @@
     "email": "gita@gmail.com",
     "pin": 1234,
     "accountNo": "1s%S2o2",
-    "balance": 0
+    "balance": 8910
   },
   {
     "name": "farhan ",
@@ -13,6 +13,14 @@
     "email": "farha@gmail.com",
     "pin": 1234,
     "accountNo": "38X3#ai",
-    "balance": 20000
+    "balance": 10000
+  },
+  {
+    "name": "Kaif Hussain",
+    "age": 22,
+    "email": "kaifhussain@gmail.com",
+    "pin": 1234,
+    "accountNo": "471l!Gv",
+    "balance": 1000
   }
 ]
